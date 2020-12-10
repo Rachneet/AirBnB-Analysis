@@ -10,8 +10,12 @@
 6. XGBoost
 7. NLTK
 
+---
+
 ### Motivation:
 Through our analysis of this data, we explore booking trends on airbnb, find factors affecting the house prices, understand the sentiments of people and create a machine learning model to predict the house prices based on the processed features.
+
+---
 
 ### File Descriptions:
 
